@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:30/04/2025
+## Register Number:212223040122
+## Name:Muthulakshmi D
 ## Problem Title
 SIH 1555: Create a Virtual Herbal Garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy).
 ## Problem Description
@@ -16,76 +16,76 @@ To create an interactive Virtual Herbal Garden that educates users about medicin
 ## Proposed Solution / Architecture Diagram
 We propose a Virtual Herbal Garden Platform that enables users to explore medicinal plants interactively through a web and mobile-based application. The solution will include:
 
-3D Plant Visualization: Realistic models that users can rotate, zoom, and inspect.
+1.3D Plant Visualization: Realistic models that users can rotate, zoom, and inspect.
 
-Educational Content: Detailed info about each plant—scientific names, medicinal uses, habitat, etc.
+2.Educational Content: Detailed info about each plant—scientific names, medicinal uses, habitat, etc.
 
-Virtual Tours: Curated tours on themes like “Immunity Boosters” or “Skin Remedies.”
+3.Virtual Tours: Curated tours on themes like “Immunity Boosters” or “Skin Remedies.”
 
-Search & Filter: Advanced search based on symptoms, plant type, region, etc.
+4.Search & Filter: Advanced search based on symptoms, plant type, region, etc.
 
-Multimedia Learning: High-quality images, audio, and videos for each plant.
+5.Multimedia Learning: High-quality images, audio, and videos for each plant.
 
-User Features: Bookmarking, note-taking, sharing on social media.
+6.User Features: Bookmarking, note-taking, sharing on social media.
 
-Responsive Design: Works on desktop, tablet, and mobile.
+7.Responsive Design: Works on desktop, tablet, and mobile.
 
-Optional AR/VR: For immersive learning in future extensions.
+8.Optional AR/VR: For immersive learning in future extensions.
 
-## Use Cases
-Student Learning
+###### Use Cases
+# Student Learning
 Students of botany, Ayurveda, and life sciences can use the platform for self-paced exploration of medicinal plants.
 
-Healthcare Practitioners
+# Healthcare Practitioners
 Ayurvedic/Unani/Homeopathy practitioners can use the garden as a reference tool.
 
-General Public Awareness
+# General Public Awareness
 People interested in traditional healing and home remedies can learn about herbs and their uses.
 
-School Integration
+ # School Integration
 Schools and colleges can use the virtual garden for educational tours in their digital curriculum.
 
-Social Media Sharing
+# Social Media Sharing
 Users can share interesting plant facts with others to promote wider awareness.
 
 ## Technology Stack
-Frontend
-React.js: Main UI framework for fast, dynamic user experience.
+1.Frontend
+   React.js: Main UI framework for fast, dynamic user experience.
 
-Three.js: For rendering and interacting with 3D plant models.
+   Three.js: For rendering and interacting with 3D plant models.
 
-Bootstrap/Tailwind CSS: For responsive and consistent styling.
+   Bootstrap/Tailwind CSS: For responsive and consistent styling.
 
-WebXR / Unity WebGL (optional): For virtual reality/augmented reality features.
+   WebXR / Unity WebGL (optional): For virtual reality/augmented reality features.
 
-PWA: Making the app installable and usable offline.
+   PWA: Making the app installable and usable offline.
 
 2. Backend
-Node.js + Express.js: RESTful API development for handling data requests.
+    Node.js + Express.js: RESTful API development for handling data requests.
 
-JWT & OAuth 2.0: User authentication and secure access control.
+    JWT & OAuth 2.0: User authentication and secure access control.
 
 3. Database
-MongoDB: Document-based DB to store plant profiles, user bookmarks, notes, and media references.
+   MongoDB: Document-based DB to store plant profiles, user bookmarks, notes, and media references.
 
-Cloudinary / Firebase Storage: For storing large multimedia files (images, audio, videos).
+   Cloudinary / Firebase Storage: For storing large multimedia files (images, audio, videos).
 
 4. DevOps / Deployment
-Docker: Containerization of frontend and backend for smooth deployment.
+    Docker: Containerization of frontend and backend for smooth deployment.
 
-AWS / Heroku / Render: Hosting infrastructure.
+    AWS / Heroku / Render: Hosting infrastructure.
 
-GitHub Actions: CI/CD pipeline for testing and deployment.
+    GitHub Actions: CI/CD pipeline for testing and deployment.
 
 5. Multimedia Tools
-Blender: For designing realistic 3D plant models.
+   Blender: For designing realistic 3D plant models.
 
-Adobe Audition / Audacity: For creating audio descriptions.
+   Adobe Audition / Audacity: For creating audio descriptions.
 
-OBS / Camtasia: For video production and editing.
+   OBS / Camtasia: For video production and editing.
 
 ## Dependencies
-External Libraries:
+# External Libraries:
 
 Three.js for 3D visualization
 
@@ -99,7 +99,7 @@ Axios for HTTP requests
 
 Blender for designing plant models
 
-External APIs (Optional):
+# External APIs (Optional):
 
 Text-to-speech API for audio descriptions
 
