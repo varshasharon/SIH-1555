@@ -32,23 +32,23 @@ We propose a Virtual Herbal Garden Platform that enables users to explore medici
 
 8.Optional AR/VR: For immersive learning in future extensions.
 
-###### Use Cases
-# Student Learning
+# Use Cases
+### Student Learning
 Students of botany, Ayurveda, and life sciences can use the platform for self-paced exploration of medicinal plants.
 
-# Healthcare Practitioners
+### Healthcare Practitioners
 Ayurvedic/Unani/Homeopathy practitioners can use the garden as a reference tool.
 
-# General Public Awareness
+### General Public Awareness
 People interested in traditional healing and home remedies can learn about herbs and their uses.
 
- # School Integration
+### School Integration
 Schools and colleges can use the virtual garden for educational tours in their digital curriculum.
 
-# Social Media Sharing
+### Social Media Sharing
 Users can share interesting plant facts with others to promote wider awareness.
 
-## Technology Stack
+# Technology Stack
 1.Frontend
    React.js: Main UI framework for fast, dynamic user experience.
 
@@ -84,8 +84,8 @@ Users can share interesting plant facts with others to promote wider awareness.
 
    OBS / Camtasia: For video production and editing.
 
-## Dependencies
-# External Libraries:
+# Dependencies
+### External Libraries:
 
 Three.js for 3D visualization
 
@@ -99,7 +99,7 @@ Axios for HTTP requests
 
 Blender for designing plant models
 
-# External APIs (Optional):
+### External APIs (Optional):
 
 Text-to-speech API for audio descriptions
 
