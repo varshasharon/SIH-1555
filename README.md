@@ -12,7 +12,41 @@ Background: The AYUSH sector relies heavily on medicinal plants and herbs, which
 Ministry of Ayush
 
 ## Idea
-To create an interactive Virtual Herbal Garden that educates users about medicinal plants used in AYUSH. The platform will provide immersive 3D visualizations, detailed plant data, multimedia content, and tools for user engagement. It will promote awareness and understanding of traditional Indian medicinal practices through digital innovation.
+### Challenge Statement:
+Design and develop an engaging, educational, and immersive Virtual Herbal Garden that highlights a wide variety of medicinal plants used across AYUSH systems (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy).
+
+### Background:
+The AYUSH system heavily relies on medicinal plants for traditional treatments. However, physical herbal gardens are limited in accessibility. A digital alternative—a Virtual Herbal Garden—will help bridge this accessibility gap, allowing users to explore and learn about these plants from anywhere.
+
+### Objective:
+Create an intuitive and interactive virtual platform that educates users about medicinal herbs through 3D models, multimedia content, and user-friendly tools.
+
+
+## Key Features:
+### Interactive 3D Models: 
+Realistic, rotatable, and zoomable plant models.
+
+### Informative Content: 
+Botanical details, common/local names, growth conditions, healing properties, and cultivation methods.
+
+### Multimedia Support: 
+Incorporation of images, explanatory videos, and audio guides to enrich learning.
+
+### Advanced Search & Filters: 
+Find plants based on health benefits, regions, or categories.
+
+### Guided Virtual Tours: 
+Thematic tours such as "Herbs for Immunity" or "Skin Wellness".
+
+### User Engagement Tools: 
+Save favorites, take personal notes, and share findings on social media.
+
+### Responsive Interface: 
+Seamless usage across desktops, tablets, and mobile devices.
+
+### AR/VR Compatibility (Future Scope): 
+Enhance immersion using Augmented or Virtual Reality.
+
 
 ## Proposed Solution / Architecture Diagram
 We propose a Virtual Herbal Garden Platform that enables users to explore medicinal plants interactively through a web and mobile-based application. The solution will include:
@@ -114,5 +148,7 @@ Botanists or AYUSH experts for verified plant data
 
 3D designers for model creation
 
+## Flowchart:
+![image](https://github.com/user-attachments/assets/0656f022-3430-4e2e-8b86-264e59bed7ca)
 
 
