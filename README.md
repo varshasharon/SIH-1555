@@ -65,8 +65,6 @@ User Features: Bookmarking, note-taking, sharing on social media.
 
 Responsive Design: Works on desktop, tablet, and mobile.
 
-Optional AR/VR: For immersive learning in future extensions.
-
 ## Use Cases
 Student Learning
 Students of botany, Ayurveda, and life sciences can use the platform for self-paced exploration of medicinal plants.
